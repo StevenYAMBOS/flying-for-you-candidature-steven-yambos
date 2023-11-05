@@ -20,9 +20,33 @@ const MyFooter = () => {
         <span>Paris 12, Île-de-France</span>
 
       <div className="social-medias">
-        <img src='../images/linkedin.svg' />
-        <img src='../images/github.svg' />
-        <img src='../images/twitter_x.svg' />
+      <a
+                href="https://www.linkedin.com/in/steven-yambos/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src="../images/linkedin.svg"
+                  alt="LinkedIn Steven YAMBOS"
+                />
+              </a>
+              <a
+                href="https://twitter.com/StevenYambos"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img
+                  src="../images/twitter_x.svg"
+                  alt="Twitter X Steven YAMBOS"
+                />
+              </a>
+              <a
+                href="https://github.com/StevenYAMBOS?tab=repositories"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img src="../images/github.svg" alt="GitHub Steven YAMBOS" />
+              </a>
       </div>
 
       <div className='copyright'>
