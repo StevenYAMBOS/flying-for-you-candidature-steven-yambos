@@ -1,5 +1,11 @@
 # Flying For You - Candidature Steven YAMBOS
 
+<img
+  src="public/images/ffy.png"
+  alt="Flying For You Candidature Steven YAMBOS screenshot"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 600px, border-radius: 20px">
+
 Bienvenue sur ma réplique personnalisée de la page d'accueil de Flying For You, créée dans le cadre de ma candidature pour un poste de Développeur Full Stack en Alternance.
 
 ## Auteur
@@ -24,8 +30,8 @@ Je m'appelle Steven YAMBOS, étudiant en Développement Web en Master 1 à Paris
 
 ## Déploiement
 
-Cette application est actuellement déployée sur Vercel. Vous pouvez y accéder en suivant ce lien : [Lien vers l'application](https://url-de-votre-application-vercel)
+Cette application est actuellement déployée sur Vercel. Vous pouvez y accéder en suivant ce lien : [Flying For You - Candidature Steven YAMBOS](https://flying-for-you-candidature-steven-yambos.vercel.app/)
 
-N'hésitez pas à explorer cette démonstration et à me contacter si vous avez des questions ou si vous souhaitez discuter de ma candidature.
+N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez discuter de ma candidature.
 
 Merci de votre attention !
