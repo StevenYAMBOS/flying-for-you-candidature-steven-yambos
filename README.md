@@ -1,46 +1,31 @@
-# Getting Started with Create React App
+# Flying For You - Candidature Steven YAMBOS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bienvenue sur ma réplique personnalisée de la page d'accueil de Flying For You, créée dans le cadre de ma candidature pour un poste de Développeur Full Stack en Alternance.
 
-## Available Scripts
+## Auteur
 
-In the project directory, you can run:
+#### Steven YAMBOS
+- [Portfolio](https://www.stevenyambos.fr/)
+- [LinkedIn](https://www.linkedin.com/in/steven-yambos/)
+- [Twitter](https://twitter.com/StevenYambos)
 
-### `npm start`
+## Contexte
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Je m'appelle Steven YAMBOS, étudiant en Développement Web en Master 1 à Paris. Cette réplique de la page d'accueil du site web de Flying For You est une démonstration de mes compétences en développement web, ainsi qu'une preuve de ma motivation à rejoindre l'équipe en tant que Développeur Full Stack en Alternance.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Technologies Utilisées
 
-### `npm test`
+- **Front-End** : ReactJS (Typescript), CSS
+- **Back-End** : Ruby On Rails (je n'ai pas eu le temps de l'implémenter pour cette démonstration)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Pages
 
-### `npm run build`
+- **Page d'accueil personnalisée** : Cette page d'accueil personnalisée remplace les informations de l'entreprise par les miennes, et elle est destinée à démontrer mon savoir-faire en matière de développement front-end.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Déploiement
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Cette application est actuellement déployée sur Vercel. Vous pouvez y accéder en suivant ce lien : [Lien vers l'application](https://url-de-votre-application-vercel)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+N'hésitez pas à explorer cette démonstration et à me contacter si vous avez des questions ou si vous souhaitez discuter de ma candidature.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Merci de votre attention !
